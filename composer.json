@@ -1,5 +1,5 @@
 {
-	"name": "matteocacciola/php-trello-api",
+	"name": "alihankoc/php-trello-api",
 	"type": "library",
 	"description": "Trello API v2 client",
 	"homepage": "https://github.com/matteocacciola/php-trello-api",
@@ -13,6 +13,10 @@
                 {
 			"name": "Matteo Cacciola",
 			"email": "matteo.cacciola@gmail.com"
+		},
+		{
+			"name": "Alihan KOÇ",
+			"email": "alhnkc90@gmail.com"
 		}
 	],
 	"require": {
